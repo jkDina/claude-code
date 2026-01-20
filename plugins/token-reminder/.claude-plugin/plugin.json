@@ -1,0 +1,8 @@
+{
+  "name": "token-reminder",
+  "version": "1.0.0",
+  "description": "Reminds about /cost command at session start to check token usage",
+  "author": {
+    "name": "jkDina"
+  }
+}
